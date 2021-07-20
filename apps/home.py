@@ -4,7 +4,7 @@ import numpy as np
 
 def app():
     st.title("Datapen")
-    st.write("A no code data vizualisation and data cleaning platform")
+    st.write("A no code data visualization and data cleaning platform")
     st.image("https://dimensionless.in/wp-content/uploads/2018/11/cover_updated.jpg", width=400)
     st.title("Plot")
     st.write("scatter plot")
